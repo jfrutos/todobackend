@@ -7,3 +7,5 @@ venv
 #Ignore SQLite databases files
 *.sqlite3
 
+unitests.xml
+coverage.xml
